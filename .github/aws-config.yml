@@ -16,7 +16,7 @@
 # AWS S3 Bucket for package and deploy #
 ########################################
 # NOTE: This bucket must exist before the GitHub Action
-s3_bucket:
+s3_bucket: github-sam-test
 
 ##################################
 # AWS Cloud Formation Stack name #
